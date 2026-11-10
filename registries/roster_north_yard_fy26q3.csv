@@ -1,0 +1,13 @@
+yard,shift,badge_id,operator,equipment,session_window,dock_bay,assessment_score,incidents_12m
+North Yard,Crew 01,MF-41103,H. Lindgren,Forklift,07:00-11:00,"BAY-6,102",90,0
+,,MF-41218,S. Yusuf,Pallet Jack,07:00-11:00,"BAY-6,106",72,1
+,,MF-41455,P. Novak,Reach Truck,7:00-11:00,BAY-6108,88,0
+,,MF-41640,T. Abara,Order Picker,07:00-11:00,"BAY-6,112",94,1
+,,MF-41872,R. Ivanova,Forklift,07:00-11:00,BAY-6116,81,3
+North Yard,Crew 02,MF-42019,K. Mensah,Shuttle Loader,13:00-17:00,"BAY-7,004",86,0
+,,MF-42344,A. Petrov,Forklift,13:00-17:00,"BAY-7,008",79,2
+,,MF-42577,L. Nakamura,Pallet Jack,13：00-17：00,BAY-7012,63,1
+,,MF-42790,M. Haddad,Reach Truck,13:00-17:00,"BAY-7,016",91,0
+,,MF-43121,E. Kovacs,Order Picker,13:00-17:00,BAY-7020,84,1
+,,MF-43288,B. Osei,Forklift,13:00-17:00,"BAY-7,022",88,2
+,,MF-43416,C. Moreau,Shuttle Loader,13:00-17:00,BAY-7026,77,0
