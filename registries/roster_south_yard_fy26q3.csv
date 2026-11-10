@@ -1,0 +1,29 @@
+yard,shift,badge_id,operator,equipment,session_window,dock_bay,assessment_score,incidents_12m
+South Yard,Crew 04、05,MF-44107,R. Kowalski,Forklift,07:00-11:00,"BAY-1,204",91,0
+,,MF-44223,L. Ortiz,Reach Truck,7:00-11:00,"BAY-1,208",68,1
+,,MF-44651,M. A. Whitfield,Pallet Jack,07：00-11：00,"BAY-1,215",84,0
+,,MF-44892,D. O'Rourke,Forklift,07:00-11:00,BAY-1206,75,2
+,,MF-45014,S. Bhattacharya,Order Picker,07:00-11:00,"BAY-1,210",93,1
+,,MF-45233,T. Nakamura,Forklift,7:00-11:00,BAY-1212,81,0
+,,MF-45380,P. Andersson,Reach Truck,07:00-11:00,"BAY-1,216",88,3
+South Yard,Crew 06,MF-45402,A. Okonkwo,Forklift,13:00-17:00,"BAY-2,004",90,0
+,,MF-45517,J. Lindqvist,Pallet Jack,13:00-17:00,BAY-2006,77,1
+,,MF-45633,H. Mbeki,Shuttle Loader,13：00-17：00,"BAY-2,010",82,2
+,,MF-45788,E. Petrova,Order Picker,13:00-17:00,"BAY-2,014",86,0
+,,MF-45901,C. Duarte,Forklift,13:00-17:00,BAY-2018,78,1
+South Yard,Crew 07,MF-46012,N. Haddad,Reach Truck,8:30-12:30,"BAY-3,102",89,0
+,,MF-46138,V. Sokolov,Forklift,08:30-12:30,BAY-3104,92,1
+,,MF-46257,Y. Tanaka,Pallet Jack,8：30-12：30,"BAY-3,108",79,0
+,,MF-46370,G. Mwangi,Forklift,08:30-12:30,"BAY-3,110",65,2
+,,MF-46485,K. Johansson,Order Picker,08:30-12:30,BAY-3112,87,1
+,,MF-46599,B. Ferreira,Shuttle Loader,8:30-12:30,"BAY-3,116",90,2
+South Yard,Crew 08,MF-46704,I. Petrenko,Forklift,6:45-10:45,"BAY-4,001",83,0
+,,MF-46822,W. Achebe,Pallet Jack,06:45-10:45,BAY-4005,76,2
+,,MF-46935,F. Rossi,Reach Truck,06：45-10：45,"BAY-4,009",91,1
+,,MF-47047,O. Kimura,Forklift,06:45-10:45,"BAY-4,013",58,0
+,,MF-47158,A. Nowak,Order Picker,6:45-10:45,BAY-4017,80,1
+South Yard,Crew 09,MF-47260,R. Mendez,Forklift,14:00-18:00,"BAY-5,006",85,0
+,,MF-47412,S. Chowdhury,Pallet Jack,14：00-18：00,BAY-5010,92,2
+,,MF-47624,L. Björk,Reach Truck,14:00-18:00,"BAY-5,014",84,0
+,,MF-47855,D. Kamau,Forklift,14:00-18:00,BAY-5018,88,3
+,,MF-48991,M. Silva,Shuttle Loader,14:00-18:00,BAY-5022,90,0
